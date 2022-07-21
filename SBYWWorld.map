@@ -5,5 +5,7 @@ checkpoint 0 0
 starting_health 3000000
 zone 0 0 0 20 Some text here.
 zone 1 100 0 30 A blank room, for now!
-
 sound_source 0 100 0 100 baseext1.ogg 0 100
+nohook
+nojump
+noshoes h
