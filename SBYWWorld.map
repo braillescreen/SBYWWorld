@@ -10,5 +10,5 @@ nohook
 nojump
 noshoes h
 wall 5 10 0 3 walltable
-platform 5 10 4 hardwood 3
+platform 5 10 4 hardwood3
 zone 4 11 0 30 A small table, with nothing on it. Well that's kind of boring, isn't it?
