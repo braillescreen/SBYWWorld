@@ -19,3 +19,12 @@ txt 1 0 If you would like to make changes, you can fork this repo. You can also 
 wall 6 9 1 3 air
 platform 6 9 0 carpet4
 zone 6 9 0 3 Under the table. I don't know how you got here, but get the hell out!
+door 18 0 21 0 555 doorsnd29.ogg .ogg dooropen75.ogg doorclose72.ogg 2
+wall 19 20 0 500000 wallmetal11
+zone 18 21 0 500000 door that goes out of the room into the hallway
+zone 22 500 0 7 hallway. There are pictures hanging on the ceiling. Jump to hit your head on the leather canvses to take a look at the paintings. Make sure you have zones set to speak without interrupting.
+wall 21 40 6 6 wallrickity2
+zone 26 26 5 5 This is a painting of a large cat eating up a wriggling mouse. The cat's fur is caked with mud and you can see the tail end of a pig in the  top right corner.
+wall 26 26 6 6 wallleather1
+wall 29 29 6 6 wallleather1
+zone 29 29 5 5 This is a large painting of two tortoise shells placed side by side. The one on the left contains a bunch of small round green shapes and the other shell holds a small half-gallon jug of milk.
