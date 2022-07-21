@@ -12,3 +12,6 @@ noshoes h
 wall 5 10 0 3 walltable
 platform 5 10 4 hardwood3
 zone 4 11 0 30 A small table, with nothing on it. Well that's kind of boring, isn't it?
+platform 8 8 4 bare
+zone 8 8 0 30 A small book, sitting on the table. Yeah I know, I said the table was empty, but looks like I lied. Oh well.
+txt 8 4 The title of the book is "How to be a foo, By Foowords." All the pages seem glued together though,so you can't open it. Sad.
