@@ -1,0 +1,5 @@
+maxx 100
+platform 0 100 0 carpet4
+txt 0 0 Welcome to SBYW world! You can add stuff to this map in any way you see fit. You can submit PR's on GitHub or, if you are uncomfortable, send it to someone else who can do that, too. Lets have some fun! P.S. Feel free to add anything you want, such as buildings or whatever! The GitHub repo is located at: https://github.com/braillescreen/SBYWWorld
+checkpoint 0 0
+starting_health 3000000
