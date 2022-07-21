@@ -3,7 +3,7 @@ platform 0 100 0 carpet4
 txt 0 0 Welcome to SBYW world! You can add stuff to this map in any way you see fit. You can submit PR's on GitHub or, if you are uncomfortable, send it to someone else who can do that, too. Lets have some fun! P.S. Feel free to add anything you want, such as buildings or whatever! The GitHub repo is located at: https://github.com/braillescreen/SBYWWorld
 checkpoint 0 0
 starting_health 3000000
-zone 0 0 0 20 Some text here.
+zone 0 1 0 20 Some text here.
 zone 1 100 0 30 A random room thingy, that exists because, I don't actually know why.
 sound_source 0 100 0 100 baseext1.ogg 0 100
 nohook
@@ -15,8 +15,7 @@ zone 4 11 0 30 A small table, with nothing on it. Well that's kind of boring, is
 platform 8 8 4 bare
 zone 8 8 0 30 A small book, sitting on the table. Yeah I know, I said the table was empty, but looks like I lied. Oh well.
 txt 8 4 The title of the book is "How to be a foo, By Foowords." All the pages seem glued together though,so you can't open it. Sad.
-txt 1 0 If you would like to make changes, -
+txt 1 0 If you would like to make changes, you can fork this repo. You can also make a forked map of it so you can use the builder. Then, after that, you type /rawmap, do those changes, and then make that be the file. If you need any help, feel free to ask other players. Thanks, and have fun with my idea!
 wall 6 9 1 3 air
-
 platform 6 9 0 carpet4
 zone 6 9 0 3 Under the table. I don't know how you got here, but get the hell out!
