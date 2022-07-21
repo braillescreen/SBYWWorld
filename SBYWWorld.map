@@ -4,8 +4,11 @@ txt 0 0 Welcome to SBYW world! You can add stuff to this map in any way you see 
 checkpoint 0 0
 starting_health 3000000
 zone 0 0 0 20 Some text here.
-zone 1 100 0 30 A blank room, for now!
+zone 1 100 0 30 A random room thingy, that exists because, I don't actually know why.
 sound_source 0 100 0 100 baseext1.ogg 0 100
 nohook
 nojump
 noshoes h
+wall 5 10 0 3 walltable
+platform 5 10 4 hardwood 3
+zone 4 11 0 30 A small table, with nothing on it. Well that's kind of boring, isn't it?
